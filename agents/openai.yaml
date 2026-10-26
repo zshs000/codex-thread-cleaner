@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex Thread Cleaner"
+  short_description: "Clean Codex threads and export readable Markdown"
+  default_prompt: "Use $codex-thread-cleaner to export this Codex thread as clean Markdown."
+
+policy:
+  allow_implicit_invocation: true
